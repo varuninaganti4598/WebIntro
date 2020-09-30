@@ -1,0 +1,117 @@
+#tal{
+
+    text-align: center;
+    font-family: monospace;
+    text-decoration: underline;
+
+   
+    font-size: 280%;
+    
+}
+header {
+    background-color: #666;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    width: auto;
+    height: 150px;
+    
+  }
+  footer {
+    background-color: #777;
+    padding: 20px;
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: black;
+  }
+body{
+    background-color: lightseagreen;
+
+
+}
+#main{
+    text-align: center;
+    border: 3px solid green;
+    background-color: darkgrey;
+    font-size: 160%;
+    font-family: 'Mogra';font-size: 22px;
+    color: maroon ;
+
+}
+#date{
+    background-color: antiquewhite;    
+    border: 3px solid green;
+    text-align: left;
+    font-size: 120%;
+    text-decoration: underline;
+}
+#add{
+    background-color: chocolate;
+    text-decoration: underline;
+    border: 3px solid green;
+    text-align: left;
+    font-size: 120%;
+    
+
+}
+h3{
+    
+    color: navy;
+    
+    text-decoration-color:black;
+}
+#hbb{
+
+    border: 3px solid green;
+    text-decoration: underline;
+    text-align: left;
+    font-size: 120%;
+}
+#hbb{
+    background-color: darkolivegreen;
+    border: 3px solid green;
+    text-decoration: underline;
+    text-align: left;
+}
+#sm{
+    font-size: 120%;
+    background-color: gold;
+    border: 3px solid green;
+    text-decoration: underline;
+    text-align: left;
+}
+#con{
+    background-color: crimson;
+    font-size: 120%;
+    border: 3px solid green;
+    text-decoration: underline;
+    text-align: left;
+}
+#tb1{
+    font-size: 120%;
+    
+}
+#tb2{
+    font-size: 120%;
+    
+}
+#txt{
+    font-size: 150%;
+    font-family: 'Mogra';
+
+}
+#dt{
+
+    font-size: 150%;
+    font-family: 'Mogra';
+}
+#matt{
+    font-size: 150%;
+    font-family: 'Mogra';
+    color: black:
+    
+}
+#pic{
+    border-radius: 50%;
+}
